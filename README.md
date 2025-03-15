@@ -149,7 +149,7 @@ dbt docs serve
 5. Run and test your models with `dbt run` and `dbt test`
 
 ## Resources
-
+- [Reference Cousre](https://www.youtube.com/playlist?list=PLYaPThD6DUS-N6aovIgkc871NJZyw8rY7)
 - [dbt Documentation](https://docs.getdbt.com/docs/introduction)
 - [dbt Discourse](https://discourse.getdbt.com/)
 - [dbt Slack Community](https://community.getdbt.com/)
